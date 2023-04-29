@@ -1,0 +1,4 @@
+#!/bin/bash
+
+./create logos
+./create social

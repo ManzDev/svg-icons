@@ -1,0 +1,6 @@
+#!/bin/bash
+
+INPUT=$1
+OUTPUT=$2
+
+svgo $INPUT --pretty -p 0 -o $OUTPUT

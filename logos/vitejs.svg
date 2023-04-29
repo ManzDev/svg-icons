@@ -1,0 +1,17 @@
+<svg id="vitejs" viewBox="0 0 512 512">
+  <path fill="url(#a)"
+    d="M503 80 269 497c-5 9-17 9-22 0L9 80c-6-10 2-21 13-19l234 42a13 13 0 0 0 4 0l229-42c11-2 19 9 14 19z" />
+  <path fill="url(#b)"
+    d="M367 6 194 40a6 6 0 0 0-5 6l-10 179c-1 5 3 8 7 7l48-11c5-1 9 3 8 7l-14 70c-1 5 3 9 8 8l30-9c4-2 9 2 8 7l-23 110c-1 7 8 10 12 5l2-4 141-281c2-5-2-10-7-10l-49 10c-5 1-9-3-8-8l33-112c1-5-3-9-8-8z" />
+  <defs>
+    <linearGradient id="a" x1="6" x2="235" y1="33" y2="344" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#41D1FF" />
+      <stop offset="1" stop-color="#BD34FE" />
+    </linearGradient>
+    <linearGradient id="b" x1="195" x2="236" y1="9" y2="293" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFEA83" />
+      <stop offset="0" stop-color="#FFDD35" />
+      <stop offset="1" stop-color="#FFA800" />
+    </linearGradient>
+  </defs>
+</svg>

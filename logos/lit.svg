@@ -1,0 +1,13 @@
+<svg id="lit" viewBox="0 0 160 200">
+  <path fill="#324fff" d="M0 80v80a70 70 0 0 0 40-40z" />
+  <path fill="#283198" d="M40 120c6 27 5 47 0 80L0 160z" />
+  <path fill="#0ff" d="M40 120v80l40-40a150 150 0 0 0-40-40z" />
+  <path fill="#324fff" d="M80 0v80S48 56 40 40z" />
+  <path fill="#324fff" d="M40 40v80a85 85 0 0 0 40-40z" />
+  <path fill="#00e8ff" d="M80 80a182 182 0 0 1 0 80l-40-40z" />
+  <path fill="#283198" d="M80 80v80c17-7 32-19 40-40-6-17-18-31-40-40z" />
+  <path fill="#283198" d="M120 40v80L80 80z" />
+  <path fill="#00e8ff" d="M120 120c6 27 5 54 0 80l-40-40z" />
+  <path fill="#324fff" d="M120 120v80l40-40c-5-15-18-28-40-40z" />
+  <path fill="#324fff" d="M160 80v80l-40-40z" />
+</svg>
